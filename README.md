@@ -2,7 +2,7 @@
 <h1 align="center">Hi there, I'm Selin 👋</h1>
 
 <p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=SelinBaharGundogar" alt="visitor badge"/>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=SelinBaharGundogar.SelinBaharGundogar" alt="visitor badge"/>
 </p>
 
 <h2 align="center">About Me 🚀</h2>
