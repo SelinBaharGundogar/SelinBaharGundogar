@@ -6,7 +6,7 @@
 
 <h2 align="center">About Me 🚀</h2>
 <p align="center">
-  I'm a passionate senior computer engineering student with a love for technology and research. I'm also an undergraduate researcher at Bilsent (Bilkent University Software Engineering and Data Analytics Research Group) where I am currenlty working on graph-based data analytics. I enjoy turning complex problems into simple and intuitive solutions. I am definitely a creative thinker! When I'm not coding, you'll find me learning a new hobby!
+  I'm a passionate senior computer engineering student with a love for technology and research. I'm also an undergraduate researcher at <a href="https://bilsen.cs.bilkent.edu.tr/" Bilsen (Bilkent University Software Engineering and Data Analytics Research Group)</a> where I am currenlty working on graph-based data analytics. I enjoy turning complex problems into simple and intuitive solutions. I am definitely a creative thinker! When I'm not coding, you'll find me learning a new hobby!
 </p>
 
 <h2 align="center">Technologies 💻</h2>
