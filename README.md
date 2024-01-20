@@ -1,9 +1,7 @@
 
 <h1 align="center">Hi there, I'm Selin 👋</h1>
 
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=SelinBaharGundogar" alt="visitor badge"/>
-</p>
+
 
 
 <h2 align="center">About Me 🚀</h2>
@@ -39,5 +37,9 @@
 <h2 align="center">My GitHub Stats 📊</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SelinBaharGundogar&show_icons=true&theme=radical" alt="GitHub Stats"/>
+</p>
+
+<p align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=SelinBaharGundogar" alt="visitor badge"/>
 </p>
 
