@@ -1,7 +1,8 @@
 
 <h1 align="center">Hi there, I'm Selin 👋</h1>
 
-## About Me 🚀
+<h2 align="center">About Me 🚀</h2>
+
 
 <p align="center">
   I'm a passionate senior computer engineering student with a love for technology and research. I'm also an undergraduate researcher at <a href="https://bilsen.cs.bilkent.edu.tr/"><u>Bilsen (Bilkent University Software Engineering and Data Analytics Research Group) </u> </a> where I am currently working on graph-based data analytics. I enjoy turning complex problems into simple and intuitive solutions. I am definitely a creative thinker! When I'm not coding, you'll find me learning a new hobby!
